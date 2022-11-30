@@ -1,5 +1,9 @@
 > # Online Voting-System
 
+Java Web Application Built with JSP, Servlet And MySQL for the database.
+
+This web app allows Voter to vote for their respective party and generate voting results.
+
 > ## WalK Through (Voter's Experience).
  
 ## HomePage 
@@ -33,6 +37,8 @@ If the entered VoterID is Invalid, then it will show a message of "Please Enter 
 This page basically includes who we are. So, I have included a brief project description and tectstack that is used and About the developer.
 
 <img width="947" alt="about" src="https://user-images.githubusercontent.com/40658745/204800682-639aeea2-5ec9-4f62-8415-a3959a499d7a.png">
+
+
 
 > ## Walk Through(Admin's Experience)
 
